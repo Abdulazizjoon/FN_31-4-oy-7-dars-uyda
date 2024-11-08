@@ -94,7 +94,6 @@
 // let res = manfiyNumRes(arr);
 // console.log(res);
 
-
 //9-masala     HATO OHIRIGACHA ISHLAY OLMADIM
 // let arr = [1, -2, 3, -4, 5, -6, 7, -8, -9, 10];
 // function maxElement(a) {
@@ -103,7 +102,7 @@
 //         if (a[i]>sum) {
 //             let test = a[i]
 //             if (test==a[]) {
-                
+
 //             }
 //         }
 //     }
@@ -112,28 +111,28 @@
 // console.log(res);
 
 ///10-masala
-let arr = [1, -2, 3, -4, 5, -6, 7, -8, -9, 10];
-function (params) {
-    
-}
+// let arr = [1, -2, 3, -4, 5, -6, 7, -8, -9, 10];
+// function revirv(a) {
+//     for (let i = a.length-1; i > 0; i--) {
+//       console.log(i);
+//     }
+// }
+// revirv(arr)
+
+//11-masala
+// let arr = [1, -2, 3, -4, 5, -6, 7, -8, -9, 10];
+// function element(a) {
+//   let sum = [];
+
+//   for (let i = 0; i < a.length; i++) {
+//     sum.push(a[i] * a[i]);
+//   }
+//   return sum;
+// }
+
+// let res = element(arr);
+// console.log(res);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//12-masala
 
