@@ -133,6 +133,46 @@
 // let res = element(arr);
 // console.log(res);
 
-
 //12-masala
+// let arr = [1, -2, 3, -4, 5, -6, 7, -8, -9, 10];
+// function num(a) {
+//     for (let i = 0; i < a.length; i++) {
+//         if (a[i]%5==0) {
+//             console.log(a[i]);
+//         }
+//     }
+// }
+// let res = num(arr)
 
+//13-masala
+// let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+// function num(a) {
+//   let sum = a[0];
+//     for (let i = 1; i < a.length; i++) {
+//       sum*=a[i]
+//     }
+//     return sum
+// }
+// let res = num(arr);
+// console.log(res);
+
+//14-masala
+// let arr = [1, 2, 3, -4, 5, 6, 7, -8, 9, -10];
+// function num(a) {
+//   for (let i = 0; i < a.length; i++) {
+//     if (a[i] > 0) {
+//       console.log(a[i]);
+//     }
+//   }
+// }
+// let res = num(arr);
+
+
+//15masala
+// let arr = [1, 2, 3, -4, 5, 6, 7, -8, 9, -10];
+// function num(a) {
+//   for (let i = 0; i < a.length; i++) {
+//     sum = console.log(`${a[i]}ning indeksi ${i}ga teng`);
+//   }
+// }
+// let res = num(arr);
